@@ -1,6 +1,6 @@
 # 266090-makder-LongPh
 My personal repository
-# Hi there, I'm [Tên của bạn] 👋
+# Hi there, I'm Long👋
 
 > "Building a strong foundation today to engineer scalable solutions tomorrow."
 
@@ -8,16 +8,16 @@ My personal repository
 
 ### 🚀 About Me
 
-- 💻 **Core Skills**: Java, JavaScript, HTML, CSS, Python.
-- 🎯 **Career Goal**: Định hướng phát triển sâu rộng trong ngành IT, làm chủ cả tư duy hệ thống lẫn kỹ năng lập trình thực chiến.
-- 🔬 **Focus Area**: Xây dựng nền tảng vững chắc về **Backend Development**, **Data Structures & Algorithms**, và **System Architecture**.
-- 🌱 **Current Learning**: Đang chủ động tìm hiểu các kiến thức chuyên sâu như OOP design patterns, tối ưu hóa cơ sở dữ liệu, và nguyên lý hoạt động của hệ thống mạng/phần mềm.
+- 💻 **Core Tech**: Java, Python, JavaScript, HTML5, CSS3.
+- 🎯 **Career Focus**: Deeply committed to exploring and excelling across the IT landscape, mastering both software engineering principles and architectural design.
+- 🔬 **Key Interests**: Building robust backend systems, practicing Data Structures & Algorithms, and understanding core computing concepts.
+- 🌱 **Currently Learning**: Object-Oriented Design Patterns, Database Optimization, and System Design fundamentals.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack
 
-#### Programming Languages
+#### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -27,5 +27,12 @@ My personal repository
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=[266090-makder-LongPh]&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-languages/?username=[266090-makder-LongPh]&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+</p>
 
 
